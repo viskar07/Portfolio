@@ -24,13 +24,8 @@ import {
   threejs,
   git,
 
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
+  realworld,
+  frontend,
 
   imaginify,
   pricewise,
@@ -41,10 +36,7 @@ import {
   notification3,
   notification4,
 
-  heroIcon1,
-  heroIcon2,
-  heroIcon3,
-  heroIcon4,
+ 
   
 } from "../assets";
 
@@ -198,7 +190,7 @@ const experiences = [
   {
     title: "Frontend Developer",
     company_name: "",
-    icon: starbucks,
+    icon: frontend,
     iconBg: "#383E56",
     date: "",
     points: [
@@ -236,7 +228,7 @@ const experiences = [
   {
     title: "Real world Projects",
     company_name: "Auxicorp",
-    icon: meta,
+    icon: realworld,
     iconBg: "#E6DEDD",
     date: "",
     points: [
@@ -249,27 +241,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as amazing as our product, but Viskar proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I thought it was impossible to make a website as amazing as our product, but you proved me wrong.",
+    name: "Shruti Rane",
+    designation: "",
+    company: "",
+    image: "https://randomuser.me/api/portraits/women/8.jpg",
   },
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like he does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    name: "Gaurav Katekar",
+    designation: "Owner of",
+    company: "Auxicorp",
+    image: "https://randomuser.me/api/portraits/men/1.jpg",
   },
   {
     testimonial:
-      "After Kartik optimized our website, our traffic increased by 10%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "After Kartik optimized our service, our traffic increased by 20%. We can't thank them enough!",
+    name: "Sunil Shinde",
+    designation: "",
+    company: "",
+    image: "https://randomuser.me/api/portraits/men/6.jpg",
   },
 ];
 

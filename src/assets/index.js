@@ -32,10 +32,8 @@ import sass from "./tech/sass.png";
 import python from "./tech/python.png";
 import github from "./tech/github.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import frontend from "./company/frontend.jpeg"
+import realworld from "./company/realworld.jpeg"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -100,6 +98,8 @@ export {
   sass,
   python,
   github,
+
+
   
   curve1,
   curve2,
@@ -112,10 +112,8 @@ export {
   threejs,
   git,
 
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  realworld,
+  frontend,
   carrent,
   jobit,
   tripguide,
