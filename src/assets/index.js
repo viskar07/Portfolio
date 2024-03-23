@@ -55,6 +55,7 @@ import curve2 from "./collaboration/curve-2.svg";
 import evently from "./Projetcts/evently.png"
 import imaginify from "./Projetcts/imaginify.png"
 import pricewise from "./Projetcts/pricewise.png"
+import profile from "./profile.png"
 
 
 
@@ -117,5 +118,7 @@ export {
   carrent,
   jobit,
   tripguide,
-  techLogo
+  techLogo,
+
+  profile
 };
