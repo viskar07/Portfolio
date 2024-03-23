@@ -35,7 +35,7 @@ import {
   notification2,
   notification3,
   notification4,
-
+  profile
  
   
 } from "../assets";
@@ -253,7 +253,7 @@ const testimonials = [
     name: "Gaurav Katekar",
     designation: "Owner of",
     company: "Auxicorp",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
+    image: profile,
   },
   {
     testimonial:
